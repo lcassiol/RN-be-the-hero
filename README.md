@@ -19,8 +19,39 @@ Projeto desenvolvido durante a semana OMNI Stack da Rocketseat, com o objetivo d
 
 ## Passos para rodar a aplicação
 
-- yarn ou npm install
-- react-native run-ios OU react-native run-android
+- acessar a pasta do projeto pelo terminal e rodar o comando yarn ou npm install
+- Configurar ip do backend no arquivo api.js dentro da pasta services
+- rodar no terminal react-native run-ios OU react-native run-android
+
+--------------------------------
+
+## Telas da aplicação
+
+<table>
+	<tr>
+		<th width="33.3%">
+			Tela de Splash<br>
+		</th>
+		<th width="33.3%">
+			Listagem dos casos
+		</th>
+    <th width="33.3%">
+			Detalhes de um caso
+		</th>
+	</tr>
+	<tr><!-- Prevent zebra stripes --></tr>
+	<tr>
+		<td>
+			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/splashScreen.jpg">
+		</td>
+		<td>
+			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/incidentList.jpg">
+		</td>
+    <td>
+			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/incidentDetail.jpg">
+		</td>
+	</tr>
+</table>
 
 
 
