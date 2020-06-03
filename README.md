@@ -42,13 +42,13 @@ Projeto desenvolvido durante a semana OMNI Stack da Rocketseat, com o objetivo d
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/splashScreen.jpg">
+			<img width="618" src="https://github.com/lcassiol/RN-be-the-hero/blob/master/assets/screenshots/splashScreen.jpg?raw=true">
 		</td>
 		<td>
-			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/incidentList.jpg">
+			<img width="618" src="https://github.com/lcassiol/RN-be-the-hero/blob/master/assets/screenshots/incidentList.jpg?raw=true">
 		</td>
     <td>
-			<img width="618" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/incidentDetail.jpg">
+			<img width="618" src="https://github.com/lcassiol/RN-be-the-hero/blob/master/assets/screenshots/incidentDetail.jpg?raw=true">
 		</td>
 	</tr>
 </table>
